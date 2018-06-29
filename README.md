@@ -18,12 +18,12 @@ If you are busy, you can skip 'upgrade', but 'update' is necessary.
 ```
 ## 3. Installation
 ```
-~/opencv-for-rpi/stretch/3.4.0 $ sudo apt-get install -y ./OpenCV*.deb
+~/OpenCV-3.4.1-Raspberry-Pi/stretch/3.4.1 $ sudo apt-get install -y ./OpenCV*.deb
 ```
 or
 ```
-~/opencv-for-rpi/stretch/3.4.0 $ sudo dpkg -i ./*.deb
-~/opencv-for-rpi/stretch/3.4.0 $ sudo apt install -f
+~/OpenCV-3.4.1-Raspberry-Pi/stretch/3.4.1 $ sudo dpkg -i ./*.deb
+~/OpenCV-3.4.1-Raspberry-Pi/stretch/3.4.1 $ sudo apt install -f
 ```
 
 ## 3. Reboot
